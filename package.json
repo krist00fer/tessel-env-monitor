@@ -1,0 +1,19 @@
+{
+  "name": "tessel-env-monitor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krist00fer/tessel-env-monitor.git"
+  },
+  "author": "Kristofer Liljeblad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/krist00fer/tessel-env-monitor/issues"
+  },
+  "homepage": "https://github.com/krist00fer/tessel-env-monitor#readme"
+}
